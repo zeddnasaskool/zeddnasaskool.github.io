@@ -23,6 +23,9 @@
 
 *Revered for his technological ingenuity, he conceptualized flying machines, a type of armored fighting vehicle, concentrated solar power, a ratio machine that could be used in an adding machine,[6][7] and the double hull. Relatively few of his designs were constructed or were even feasible during his lifetime, as the modern scientific approaches to metallurgy and engineering were only in their infancy during the Renaissance. Some of his smaller inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a machine for testing the tensile strength of wire. He made substantial discoveries in anatomy, civil engineering, hydrodynamics, geology, optics, and tribology, but he did not publish his findings and they had little to no direct influence on subsequent science.[8]*
 
+
+# *Thanks for stopping by at this short and quite peculiar perspective on Leonardo Da Vinci!* #
+
 ## *Credits:* ##
 
 *https://en.wikipedia.org/wiki/Leonardo_da_Vinci* 
