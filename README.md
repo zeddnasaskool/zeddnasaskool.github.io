@@ -1,5 +1,4 @@
 # zeddnasaskool.github.io #
 ## *A Short Overview of Leonardo Da Vinci* 🖌️
-*By Ed'z Kirk Gabriel S. Laurio*
-
-[](https://media.architecturaldigest.com/photos/5cc7424b04c41e35f09a7a7e/1:1/w_1575,h_1575,c_limit/GettyImages-146331532.jpg)
+*By Ed'z Kirk Gabriel S. Laurio* 
+![Leonardo Da Vinci](https://www.singulart.com/blog/wp-content/uploads/2023/10/Leonardo-Da-Vinci-1140x1140.webp)
