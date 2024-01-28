@@ -1,3 +1,3 @@
-# zeddnasaskool.github.io
-Ed'z Kirk Gabriel S. Laurio
-
+# zeddnasaskool.github.io #
+## *A Short Overview of Leonardo Da Vinci* ##
+*By Ed'z Kirk Gabriel S. Laurio*
