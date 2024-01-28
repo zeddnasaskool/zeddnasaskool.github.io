@@ -7,7 +7,7 @@
 
 # *Some of Leonardo Da Vinci's Artworks* #
 1. ## *The Last Supper* ##
-   ![The Last Supper]([https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg](https://www.singulart.com/blog/wp-content/uploads/2023/10/Leonardo-Da-Vinci-1140x1140.webp)
+   ![The Last Supper](https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
 2. ## *Mona Lisa* ##
    ![Mona Lisa](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg)
 3. ## *Salvator Mundi* ##
@@ -30,6 +30,7 @@
 
 *https://en.wikipedia.org/wiki/Leonardo_da_Vinci* 
 *https://www.singulart.com/blog/wp-content/uploads/2023/10/Leonardo-Da-Vinci-1140x1140.webp*
+*https://upload.wikimedia.org/wikipedia/commons/4/4b/%C3%9Altima_Cena_-_Da_Vinci_5.jpg*
 *https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg*
 *https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg* *https://images.squarespace-cdn.com/content/v1/53d1d528e4b03aa34500543a/1415923320395-H94ONRU9ZXZ7L7MGJLNC/dayone.jpg?format=1500w*
 *https://media.istockphoto.com/id/655873556/vector/leonardos-sketches-and-drawings-vitruvian-man.jpg?s=612x612&w=0&k=20&c=TBYmfaKEyb_q4A-RZnlmW_BI_n3N92QSFNDYzmGntTY=* 
