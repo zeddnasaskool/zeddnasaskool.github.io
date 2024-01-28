@@ -15,7 +15,7 @@
    
 *Leonardo is identified as one of the greatest painters in the history of art and is often credited as the founder of the High Renaissance.[3] Despite having many lost works and fewer than 25 attributed major works – including numerous unfinished works – he created some of the most influential paintings in Western art.[3] His magnum opus, the Mona Lisa, is his best known work and often regarded as the world's most famous painting. The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also regarded as a cultural icon. In 2017, Salvator Mundi, attributed in whole or part to Leonardo,[5] was sold at auction for US$450.3 million, setting a new record for the most expensive painting ever sold at public auction.*
 
-# *Leonardo Da Vinci's sketches* #
+# *Some of Leonardo Da Vinci's sketches* #
 ![Sketch.1](https://images.squarespace-cdn.com/content/v1/53d1d528e4b03aa34500543a/1415923320395-H94ONRU9ZXZ7L7MGJLNC/dayone.jpg?format=1500w)
 ![Sketch.2](https://assets.weforum.org/editor/3dMYghITDappoeMEpBl0Ip47ueBk-qG3TXEqY1_4LYs.jpg)
 ![Sketch.3](https://media.istockphoto.com/id/655873556/vector/leonardos-sketches-and-drawings-vitruvian-man.jpg?s=612x612&w=0&k=20&c=TBYmfaKEyb_q4A-RZnlmW_BI_n3N92QSFNDYzmGntTY=)
