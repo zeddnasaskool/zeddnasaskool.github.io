@@ -1,4 +1,4 @@
-![image](https://github.com/zeddnasaskool/zeddnasaskool.github.io/assets/151606124/3b421da0-4e7a-4639-92f9-18224c0f53e8)# *zeddnasaskool.github.io* #
+# *zeddnasaskool.github.io* #
 ## *A Short Overview of Leonardo Da Vinci* 🖌️
 *By Ed'z Kirk Gabriel S. Laurio* 
 ![Leonardo Da Vinci](https://www.singulart.com/blog/wp-content/uploads/2023/10/Leonardo-Da-Vinci-1140x1140.webp)
